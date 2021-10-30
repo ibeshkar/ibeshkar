@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibeshkar
-- 👀 I’m interested in mobile applications developing
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in mobile applications developing with Java,Kotlin and react-native
+- 🌱 I’m crazy about new technologies
 - 💞️ I’m looking to collaborate on android projects
 - 📫 i.beshkar@gmail.com
 
